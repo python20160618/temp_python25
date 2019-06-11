@@ -9,3 +9,5 @@ def detail():
 
 b = 2
 
+c = 3
+
